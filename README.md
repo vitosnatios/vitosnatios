@@ -85,12 +85,12 @@
 <h3 align='left'>Github Status:</h3>
 <p>
   <img align='left'
-    src='https://github-readme-stats.vercel.app/api/top-langs?username=vitosnatios&show_icons=true&locale=en&layout=compact&theme=city_lights'
+    src='https://github-readme-stats.vercel.app/api/top-langs?username=vitosnatios&show_icons=true&locale=en&layout=compact&theme=transparent'
     alt='vitosnatios' />
 </p>
 
 <p>
   &nbsp;
-  <img align='center' src='https://github-readme-stats.vercel.app/api?username=vitosnatios&show_icons=true&locale=en&theme=city_lights'
+  <img align='center' src='https://github-readme-stats.vercel.app/api?username=vitosnatios&show_icons=true&locale=en&theme=transparent'
     alt='vitosnatios' />
 </p>
