@@ -2,7 +2,7 @@
   <img
     src='https://readme-typing-svg.demolab.com/?font=Roboto&weight=500&size=25&duration=2500&pause=0&color=E2E8EE&center=true&multiline=true&random=false&width=280&repeat=false&height=70&lines=Hi%2C+I%27m+Vitor;A+Full-Stack+Developer' alt="Typing SVG">
 </div>
-<img align='right' src="https://github.com/vitosnatios/vitosnatios/blob/main/profile-3d-contrib/profile-custom-rainbow.svg" width="640px">
+<img align='right' src="https://github.com/vitosdeveloper/vitosdeveloper/blob/main/profile-3d-contrib/profile-custom-rainbow.svg" width="640px">
 
 ###### Languages
 <div>
